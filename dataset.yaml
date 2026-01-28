@@ -1,0 +1,6 @@
+path: dataset
+train: train
+val: val
+test: test
+nc: 2
+names: ['0', '1']
