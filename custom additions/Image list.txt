@@ -1,0 +1,12 @@
+The "real" photo protion of this dataset was taken from Unsplash while the AI photos were generated from Canva's AI with the same description that Unsplashed gave
+All the photos will be mirrored horizontally when added to the testing dataset adn the AI photos will be cropped
+https://unsplash.com/photos/snowy-city-square-with-illuminated-christmas-tree-and-lights-p2GsDw5e1pU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/person-stands-before-pixelated-ghost-art-on-wall-Gfm7ACZhX6A?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/golden-sunset-light-filters-through-snowy-trees-QfNICjHN7LM
+https://unsplash.com/photos/a-penguin-preening-on-an-ice-floe-u6vD26lMvSk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/a-colorful-blue-and-yellow-macaw-parrot-b4xw0vST0iI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/view-through-a-rock-arch-at-a-desert-landscape-8yH7Fg6xb2U?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/people-gather-at-the-temple-of-heaven-in-beijing-442Ih9W-xNI
+https://unsplash.com/photos/exterior-of-a-modern-apartment-building-with-balconies-1iGG6k4Ci4E
+https://unsplash.com/photos/close-up-of-a-vintage-audi-80-car-tail-light-RYHIhuqLRd0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+https://unsplash.com/photos/u-bahn-station-entrance-with-blooming-trees-and-bicycles-v2jBkn6Tx6k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
